@@ -1,2 +1,2 @@
 # MLAlertView
-自定义带回调的AlertView
+自定义带回调的AlertView,使用IQKeyboardManger第三方库使得键盘弹出时重新调整布局。
